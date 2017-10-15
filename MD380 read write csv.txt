@@ -1,7 +1,0 @@
-MD380 read write csv to rdt codeplug
-
-to convert rdt file to csv's files:
-./rdt2csv -e UHF_General_Codeplug.rdt -sc -ch UHF_General_Channel.csv -cont UHF_General_Contact.csv -rxgrp UHF_General_RxGroup.csv -scan UHF_General_Scan.csv -zone UHF_General_Zone.csv
-
-To upgrade csv files to rdt file:
-./rdt2csv -u UHF_General_Codeplug.rdt -sc -ch UHF_General_Channel.csv -cont UHF_General_Contact.csv -rxgrp UHF_General_RxGroup.csv -scan UHF_General_Scan.csv -zone UHF_General_Zone.csv
