@@ -21,7 +21,7 @@ previous data will be lost, an so it is reccomended to store a backup of your co
 
 Keep in mind that the first Tg will be stored into slot1 and the others will stored on slot2.
 
-Moreover you have to know that the Channell memory of MD380 Radio's is limited to 1000 channels.
+Moreover you know the capacity of Channel memory of MD380 Radio's is limited to 1000 channels.
 
 So if you intend to store all your national repeaters you have to check that the number of all repeaters times the number of wanted talkgroups 
 
