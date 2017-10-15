@@ -1,0 +1,43 @@
+CallId;CallReceiveTone;CallType;Name
+9;off;group;Local
+91;off;group;WW
+92;off;group;Eur
+99;off;group;Direct
+4000;off;private;"Disc TG"
+222;off;group;Italia
+222001;off;group;"TAC1-ITA"
+222002;off;group;"TAC2-ITA"
+222003;off;group;"TAC3-ITA"
+222004;off;group;"TAC4-ITA"
+222005;off;group;"TAC5-ITA"
+222006;off;group;"TAC6-ITA"
+222007;off;group;"TAC7-ITA"
+222008;off;group;"TAC8-ITA"
+222009;off;group;"TAC9-ITA"
+22201;off;group;Lazio
+222010;off;group;"TAC10-ITA"
+22202;off;group;Sardegna
+22203;off;group;Umbria
+22211;off;group;Liguria
+222112;off;group;"Emergenza-112"
+222113;off;group;"Emergenza-113"
+22212;off;group;Piemonte
+22213;off;group;"Valle d’Aosta"
+22221;off;group;Lombardia
+22231;off;group;"Friuli Venezia G"
+22232;off;group;"Trentino Alto Ad"
+22233;off;group;Veneto
+22241;off;group;"Emilia Romagna"
+22251;off;group;Toscana
+22261;off;group;Abruzzo
+22262;off;group;Marche
+22271;off;group;Puglia
+22281;off;group;Basilicata
+22282;off;group;Calabria
+22283;off;group;Campania
+22284;off;group;Molise
+22291;off;group;Sicilia
+2229192;off;group;"WIRESX-Room-ITA"
+2229193;off;group;"YSF-BM2221"
+222990;off;group;"Special Activati"
+262997;off;group;"TG 262997"

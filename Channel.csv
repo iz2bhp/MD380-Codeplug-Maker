@@ -1,0 +1,781 @@
+LoneWorker;Squelch;Autoscan;Bandwidth;ChannelMode;Colorcode;RepeaterSlot;RxOnly;AllowTalkaround;DataCallConf;PrivateCallConf;Privacy;PrivacyNo;DisplayPttId;CompressedUdpHdr;EmergencyAlarmAck;RxRefFrequency;AdmintCriteria;Power;Vox;QtReverse;ReverseBurst;TxRefFrequency;ContactName;Tot;TotRekeyDelay;EmergencySystem;ScanList;GroupList;Decode18;RxFrequency;TxFrequency;CtcssDcsDecode;CtcssDcsEncode;TxSignalingSyst;RxSignalingSyst;Name
+off;normal;off;"25.0";analog;1;slot1;off;on;off;off;none;0;off;on;off;medium;always;low;off;180;on;medium;none;12;0;0;Analog;none;off;43340000;43340000;none;none;0;0;"433.400A ISO"
+off;normal;off;"25.0";analog;1;slot1;off;on;off;off;none;0;off;on;off;medium;always;low;off;180;on;medium;none;12;0;0;Analog;none;off;43342500;43342500;none;none;0;0;"433.425A ISO"
+off;normal;off;"25.0";analog;1;slot1;off;on;off;off;none;0;off;on;off;medium;always;low;off;180;on;medium;none;12;0;0;Analog;none;off;43345000;43345000;none;none;0;0;"433.450A ISO"
+off;normal;off;"25.0";analog;1;slot1;off;on;off;off;none;0;off;on;off;medium;always;low;off;180;on;medium;none;12;0;0;Analog;none;off;43347500;43347500;none;none;0;0;"433.475A ISO"
+off;normal;off;"25.0";analog;1;slot1;off;on;off;off;none;0;off;on;off;medium;always;low;off;180;on;medium;none;12;0;0;Analog;none;off;43350000;43350000;none;none;0;0;"433.500A ISO"
+off;normal;off;"25.0";analog;1;slot1;off;on;off;off;none;0;off;on;off;medium;always;low;off;180;on;medium;none;12;0;0;Analog;none;off;43352500;43352500;none;none;0;0;"433.525A ISO"
+off;normal;off;"25.0";analog;1;slot1;off;on;off;off;none;0;off;on;off;medium;always;low;off;180;on;medium;none;12;0;0;Analog;none;off;43355000;43355000;none;none;0;0;"433.550A ISO"
+off;normal;off;"25.0";analog;1;slot1;off;on;off;off;none;0;off;on;off;medium;always;low;off;180;on;medium;none;12;0;0;Analog;none;off;43357500;43357500;none;none;0;0;"433.575A ISO"
+off;normal;off;"12.5";digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;"Zona 2";Italia;off;43136250;43586250;none;none;0;0;"IR2UBG-Italia"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;"Zona 2";"Local or Reflect";off;43136250;43586250;none;none;0;0;"IR2UBG-Local "
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;262997;12;0;0;"Zona 2";"TG 262997";off;43136250;43586250;none;none;0;0;"IR2UBG-TG 262997"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22201;12;0;0;"Zona 2";Lazio;off;43136250;43586250;none;none;0;0;"IR2UBG-Lazio"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22212;12;0;0;"Zona 2";Piemonte;off;43136250;43586250;none;none;0;0;"IR2UBG-Piemon"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22221;12;0;0;"Zona 2";Lombardia;off;43136250;43586250;none;none;0;0;"IR2UBG-Lombar"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22231;12;0;0;"Zona 2";"Friuli Venezia G";off;43136250;43586250;none;none;0;0;"IR2UBG-Friuli"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22232;12;0;0;"Zona 2";"Trentino Alto Ad";off;43136250;43586250;none;none;0;0;"IR2UBG-Trenti"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22233;12;0;0;"Zona 2";Veneto;off;43136250;43586250;none;none;0;0;"IR2UBG-Veneto"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22241;12;0;0;"Zona 2";"Emilia Romagna";off;43136250;43586250;none;none;0;0;"IR2UBG-Emilia"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22251;12;0;0;"Zona 2";Toscana;off;43136250;43586250;none;none;0;0;"IR2UBG-Toscan"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22261;12;0;0;"Zona 2";Abruzzo;off;43136250;43586250;none;none;0;0;"IR2UBG-Abruzz"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22271;12;0;0;"Zona 2";Puglia;off;43136250;43586250;none;none;0;0;"IR2UBG-Puglia"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222001;12;0;0;"Zona 2";"TAC1-ITA";off;43136250;43586250;none;none;0;0;"IR2UBG-TAC1-I"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;"Zona 2";"TAC2-ITA";off;43136250;43586250;none;none;0;0;"IR2UBG-TAC2-I"
+off;normal;off;"12.5";digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;91;12;0;0;"Zona 2";"World-wide";off;43136250;43586250;none;none;0;0;"IR2UBG-World-"
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43096250;43596250;none;none;0;0;I-RU2-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43096250;43596250;none;none;0;0;I-RU2-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43096250;43596250;none;none;0;0;I-RU2-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43096250;43596250;none;none;0;0;I-RU2-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43093750;43593750;none;none;0;0;I0KMJ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43093750;43593750;none;none;0;0;I0KMJ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43093750;43593750;none;none;0;0;I0KMJ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43093750;43593750;none;none;0;0;I0KMJ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43078750;43578750;none;none;0;0;I0NLV-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43078750;43578750;none;none;0;0;I0NLV-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43078750;43578750;none;none;0;0;I0NLV-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43078750;43578750;none;none;0;0;I0NLV-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43032500;43532500;none;none;0;0;IK1VDI-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43032500;43532500;none;none;0;0;IK1VDI-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43032500;43532500;none;none;0;0;IK1VDI-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43032500;43532500;none;none;0;0;IK1VDI-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43092500;43592500;none;none;0;0;IK1WHN-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43092500;43592500;none;none;0;0;IK1WHN-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43092500;43592500;none;none;0;0;IK1WHN-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43092500;43592500;none;none;0;0;IK1WHN-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43096250;43596250;none;none;0;0;IK3DNV-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43096250;43596250;none;none;0;0;IK3DNV-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43096250;43596250;none;none;0;0;IK3DNV-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43096250;43596250;none;none;0;0;IK3DNV-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43057500;43557500;none;none;0;0;IK5BNG-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43057500;43557500;none;none;0;0;IK5BNG-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43057500;43557500;none;none;0;0;IK5BNG-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43057500;43557500;none;none;0;0;IK5BNG-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43006250;43166250;none;none;0;0;IK5WJG-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43006250;43166250;none;none;0;0;IK5WJG-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43006250;43166250;none;none;0;0;IK5WJG-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43006250;43166250;none;none;0;0;IK5WJG-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43060000;43560000;none;none;0;0;IK5XMK-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43060000;43560000;none;none;0;0;IK5XMK-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43060000;43560000;none;none;0;0;IK5XMK-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43060000;43560000;none;none;0;0;IK5XMK-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43028750;43588750;none;none;0;0;IK6DIO-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43028750;43588750;none;none;0;0;IK6DIO-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43028750;43588750;none;none;0;0;IK6DIO-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43028750;43588750;none;none;0;0;IK6DIO-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43573750;43073750;none;none;0;0;IK6PRN-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43573750;43073750;none;none;0;0;IK6PRN-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43573750;43073750;none;none;0;0;IK6PRN-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43573750;43073750;none;none;0;0;IK6PRN-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43025000;43525000;none;none;0;0;IK6QOO-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43025000;43525000;none;none;0;0;IK6QOO-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43025000;43525000;none;none;0;0;IK6QOO-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43025000;43525000;none;none;0;0;IK6QOO-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43072500;43572500;none;none;0;0;IK7EZM-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43072500;43572500;none;none;0;0;IK7EZM-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43072500;43572500;none;none;0;0;IK7EZM-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43072500;43572500;none;none;0;0;IK7EZM-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43045000;43545000;none;none;0;0;IK7XIW-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43045000;43545000;none;none;0;0;IK7XIW-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43045000;43545000;none;none;0;0;IK7XIW-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43045000;43545000;none;none;0;0;IK7XIW-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 8;Italia;off;43021250;43521250;none;none;0;0;IK8SYZ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 8;Local or Reflect;off;43021250;43521250;none;none;0;0;IK8SYZ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 8;Liguria;off;43021250;43521250;none;none;0;0;IK8SYZ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 8;TAC2-ITA;off;43021250;43521250;none;none;0;0;IK8SYZ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 8;Italia;off;43060000;43560000;none;none;0;0;IK8WCQ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 8;Local or Reflect;off;43060000;43560000;none;none;0;0;IK8WCQ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 8;Liguria;off;43060000;43560000;none;none;0;0;IK8WCQ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 8;TAC2-ITA;off;43060000;43560000;none;none;0;0;IK8WCQ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43093750;43593750;none;none;0;0;IN3CBN-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43093750;43593750;none;none;0;0;IN3CBN-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43093750;43593750;none;none;0;0;IN3CBN-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43093750;43593750;none;none;0;0;IN3CBN-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43092500;43592500;none;none;0;0;IN3ELZ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43092500;43592500;none;none;0;0;IN3ELZ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43092500;43592500;none;none;0;0;IN3ELZ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43092500;43592500;none;none;0;0;IN3ELZ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43055000;43555000;none;none;0;0;IN3XFQ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43055000;43555000;none;none;0;0;IN3XFQ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43055000;43555000;none;none;0;0;IN3XFQ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43055000;43555000;none;none;0;0;IN3XFQ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43146250;43306250;none;none;0;0;IQ3DD-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43146250;43306250;none;none;0;0;IQ3DD-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43146250;43306250;none;none;0;0;IQ3DD-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43146250;43306250;none;none;0;0;IQ3DD-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43095000;43595000;none;none;0;0;IQ3VN-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43095000;43595000;none;none;0;0;IQ3VN-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43095000;43595000;none;none;0;0;IQ3VN-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43095000;43595000;none;none;0;0;IQ3VN-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43090000;43590000;none;none;0;0;IQ3VO-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43090000;43590000;none;none;0;0;IQ3VO-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43090000;43590000;none;none;0;0;IQ3VO-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43090000;43590000;none;none;0;0;IQ3VO-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 4;Italia;off;43061250;43561250;none;none;0;0;IQ4EV-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 4;Local or Reflect;off;43061250;43561250;none;none;0;0;IQ4EV-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 4;Liguria;off;43061250;43561250;none;none;0;0;IQ4EV-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 4;TAC2-ITA;off;43061250;43561250;none;none;0;0;IQ4EV-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43092500;43592500;none;none;0;0;IQ5QE-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43092500;43592500;none;none;0;0;IQ5QE-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43092500;43592500;none;none;0;0;IQ5QE-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43092500;43592500;none;none;0;0;IQ5QE-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43098750;43598750;none;none;0;0;IQ9YO-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43098750;43598750;none;none;0;0;IQ9YO-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43098750;43598750;none;none;0;0;IQ9YO-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43098750;43598750;none;none;0;0;IQ9YO-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43032500;43532500;none;none;0;0;IR-IU8-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43032500;43532500;none;none;0;0;IR-IU8-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43032500;43532500;none;none;0;0;IR-IU8-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43032500;43532500;none;none;0;0;IR-IU8-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43023750;43783750;none;none;0;0;IR0AAC-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43023750;43783750;none;none;0;0;IR0AAC-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43023750;43783750;none;none;0;0;IR0AAC-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43023750;43783750;none;none;0;0;IR0AAC-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43072500;43572500;none;none;0;0;IR0DS-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43072500;43572500;none;none;0;0;IR0DS-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43072500;43572500;none;none;0;0;IR0DS-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43072500;43572500;none;none;0;0;IR0DS-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43076250;43576250;none;none;0;0;IR0EF-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43076250;43576250;none;none;0;0;IR0EF-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43076250;43576250;none;none;0;0;IR0EF-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43076250;43576250;none;none;0;0;IR0EF-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43070000;43570000;none;none;0;0;IR0UAP-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43070000;43570000;none;none;0;0;IR0UAP-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43070000;43570000;none;none;0;0;IR0UAP-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43070000;43570000;none;none;0;0;IR0UAP-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43021250;43181250;none;none;0;0;IR0UAS-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43021250;43181250;none;none;0;0;IR0UAS-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43021250;43181250;none;none;0;0;IR0UAS-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43021250;43181250;none;none;0;0;IR0UAS-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43047500;43547500;none;none;0;0;IR0UBK-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43047500;43547500;none;none;0;0;IR0UBK-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43047500;43547500;none;none;0;0;IR0UBK-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43047500;43547500;none;none;0;0;IR0UBK-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43042500;43542500;none;none;0;0;IR0UCY-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43042500;43542500;none;none;0;0;IR0UCY-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43042500;43542500;none;none;0;0;IR0UCY-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43042500;43542500;none;none;0;0;IR0UCY-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43073750;43573750;none;none;0;0;IR0UDB-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43073750;43573750;none;none;0;0;IR0UDB-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43073750;43573750;none;none;0;0;IR0UDB-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43073750;43573750;none;none;0;0;IR0UDB-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43072500;43572500;none;none;0;0;IR0UDY-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43072500;43572500;none;none;0;0;IR0UDY-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43072500;43572500;none;none;0;0;IR0UDY-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43072500;43572500;none;none;0;0;IR0UDY-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43146250;43306250;none;none;0;0;IR0UEI-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43146250;43306250;none;none;0;0;IR0UEI-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43146250;43306250;none;none;0;0;IR0UEI-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43146250;43306250;none;none;0;0;IR0UEI-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43042500;43542500;none;none;0;0;IR0UEJ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43042500;43542500;none;none;0;0;IR0UEJ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43042500;43542500;none;none;0;0;IR0UEJ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43042500;43542500;none;none;0;0;IR0UEJ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43023750;43183750;none;none;0;0;IR0UGF-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43023750;43183750;none;none;0;0;IR0UGF-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43023750;43183750;none;none;0;0;IR0UGF-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43023750;43183750;none;none;0;0;IR0UGF-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43023750;43183750;none;none;0;0;IR0UGG-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43023750;43183750;none;none;0;0;IR0UGG-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43023750;43183750;none;none;0;0;IR0UGG-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43023750;43183750;none;none;0;0;IR0UGG-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43156250;43316250;none;none;0;0;IR0UGL-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43156250;43316250;none;none;0;0;IR0UGL-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43156250;43316250;none;none;0;0;IR0UGL-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43156250;43316250;none;none;0;0;IR0UGL-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43055000;43555000;none;none;0;0;IR0UGR-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43055000;43555000;none;none;0;0;IR0UGR-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43055000;43555000;none;none;0;0;IR0UGR-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43055000;43555000;none;none;0;0;IR0UGR-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43057500;43557500;none;none;0;0;IR0UGZ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43057500;43557500;none;none;0;0;IR0UGZ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43057500;43557500;none;none;0;0;IR0UGZ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43057500;43557500;none;none;0;0;IR0UGZ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43005000;43165000;none;none;0;0;IR0UN-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43005000;43165000;none;none;0;0;IR0UN-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43005000;43165000;none;none;0;0;IR0UN-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43005000;43165000;none;none;0;0;IR0UN-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43092500;43592500;none;none;0;0;IR1CT-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43092500;43592500;none;none;0;0;IR1CT-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43092500;43592500;none;none;0;0;IR1CT-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43092500;43592500;none;none;0;0;IR1CT-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43072500;43572500;none;none;0;0;IR1DF-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43072500;43572500;none;none;0;0;IR1DF-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43072500;43572500;none;none;0;0;IR1DF-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43072500;43572500;none;none;0;0;IR1DF-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43005000;43165000;none;none;0;0;IR1UB-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43005000;43165000;none;none;0;0;IR1UB-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43005000;43165000;none;none;0;0;IR1UB-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43005000;43165000;none;none;0;0;IR1UB-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43052500;43552500;none;none;0;0;IR1UBR-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43052500;43552500;none;none;0;0;IR1UBR-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43052500;43552500;none;none;0;0;IR1UBR-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43052500;43552500;none;none;0;0;IR1UBR-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43060000;43560000;none;none;0;0;IR1UBY-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43060000;43560000;none;none;0;0;IR1UBY-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43060000;43560000;none;none;0;0;IR1UBY-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43060000;43560000;none;none;0;0;IR1UBY-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43130000;43290000;none;none;0;0;IR1UDQ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43130000;43290000;none;none;0;0;IR1UDQ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43130000;43290000;none;none;0;0;IR1UDQ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43130000;43290000;none;none;0;0;IR1UDQ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43032500;43532500;none;none;0;0;IR1UDT-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43032500;43532500;none;none;0;0;IR1UDT-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43032500;43532500;none;none;0;0;IR1UDT-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43032500;43532500;none;none;0;0;IR1UDT-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43028750;43188750;none;none;0;0;IR1UGE-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43028750;43188750;none;none;0;0;IR1UGE-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43028750;43188750;none;none;0;0;IR1UGE-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43028750;43188750;none;none;0;0;IR1UGE-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43001250;43501250;none;none;0;0;IR1UGF-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43001250;43501250;none;none;0;0;IR1UGF-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43001250;43501250;none;none;0;0;IR1UGF-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43001250;43501250;none;none;0;0;IR1UGF-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43052500;43552500;none;none;0;0;IR1UGO-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43052500;43552500;none;none;0;0;IR1UGO-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43052500;43552500;none;none;0;0;IR1UGO-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43052500;43552500;none;none;0;0;IR1UGO-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43013750;43173750;none;none;0;0;IR1UHD-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43013750;43173750;none;none;0;0;IR1UHD-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43013750;43173750;none;none;0;0;IR1UHD-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43013750;43173750;none;none;0;0;IR1UHD-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43013750;43173750;none;none;0;0;IR1UHO-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43013750;43173750;none;none;0;0;IR1UHO-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43013750;43173750;none;none;0;0;IR1UHO-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43013750;43173750;none;none;0;0;IR1UHO-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43092500;43592500;none;none;0;0;IR1UHT-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43092500;43592500;none;none;0;0;IR1UHT-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43092500;43592500;none;none;0;0;IR1UHT-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43092500;43592500;none;none;0;0;IR1UHT-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43012500;43512500;none;none;0;0;IR1UIP-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43012500;43512500;none;none;0;0;IR1UIP-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43012500;43512500;none;none;0;0;IR1UIP-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43012500;43512500;none;none;0;0;IR1UIP-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43058750;43558750;none;none;0;0;IR1UIQ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43058750;43558750;none;none;0;0;IR1UIQ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43058750;43558750;none;none;0;0;IR1UIQ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43058750;43558750;none;none;0;0;IR1UIQ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43087500;43587500;none;none;0;0;IR1UIV-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43087500;43587500;none;none;0;0;IR1UIV-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43087500;43587500;none;none;0;0;IR1UIV-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43087500;43587500;none;none;0;0;IR1UIV-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43051250;43551250;none;none;0;0;IR1UIW-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43051250;43551250;none;none;0;0;IR1UIW-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43051250;43551250;none;none;0;0;IR1UIW-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43051250;43551250;none;none;0;0;IR1UIW-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43006250;43506250;none;none;0;0;IR2CL-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43006250;43506250;none;none;0;0;IR2CL-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43006250;43506250;none;none;0;0;IR2CL-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43006250;43506250;none;none;0;0;IR2CL-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43035000;43195000;none;none;0;0;IR2CT-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43035000;43195000;none;none;0;0;IR2CT-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43035000;43195000;none;none;0;0;IR2CT-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43035000;43195000;none;none;0;0;IR2CT-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43077500;43237500;none;none;0;0;IR2UB-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43077500;43237500;none;none;0;0;IR2UB-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43077500;43237500;none;none;0;0;IR2UB-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43077500;43237500;none;none;0;0;IR2UB-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43033750;43193750;none;none;0;0;IR2UDK-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43033750;43193750;none;none;0;0;IR2UDK-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43033750;43193750;none;none;0;0;IR2UDK-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43033750;43193750;none;none;0;0;IR2UDK-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43137500;43297500;none;none;0;0;IR2UDS-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43137500;43297500;none;none;0;0;IR2UDS-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43137500;43297500;none;none;0;0;IR2UDS-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43137500;43297500;none;none;0;0;IR2UDS-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43155000;43315000;none;none;0;0;IR2UDZ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43155000;43315000;none;none;0;0;IR2UDZ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43155000;43315000;none;none;0;0;IR2UDZ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43155000;43315000;none;none;0;0;IR2UDZ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43141250;43301250;none;none;0;0;IR2UEW-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43141250;43301250;none;none;0;0;IR2UEW-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43141250;43301250;none;none;0;0;IR2UEW-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43141250;43301250;none;none;0;0;IR2UEW-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43035000;43585000;none;none;0;0;IR2UFO-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43035000;43585000;none;none;0;0;IR2UFO-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43035000;43585000;none;none;0;0;IR2UFO-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43035000;43585000;none;none;0;0;IR2UFO-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43123750;43283750;none;none;0;0;IR2UFZ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43123750;43283750;none;none;0;0;IR2UFZ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43123750;43283750;none;none;0;0;IR2UFZ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43123750;43283750;none;none;0;0;IR2UFZ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43006250;43506250;none;none;0;0;IR2UGV-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43006250;43506250;none;none;0;0;IR2UGV-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43006250;43506250;none;none;0;0;IR2UGV-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43006250;43506250;none;none;0;0;IR2UGV-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43046250;43786250;none;none;0;0;IR3AO-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43046250;43786250;none;none;0;0;IR3AO-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43046250;43786250;none;none;0;0;IR3AO-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43046250;43786250;none;none;0;0;IR3AO-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43137500;43297500;none;none;0;0;IR3UBL-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43137500;43297500;none;none;0;0;IR3UBL-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43137500;43297500;none;none;0;0;IR3UBL-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43137500;43297500;none;none;0;0;IR3UBL-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43191250;43031250;none;none;0;0;IR3UCN-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43191250;43031250;none;none;0;0;IR3UCN-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43191250;43031250;none;none;0;0;IR3UCN-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43191250;43031250;none;none;0;0;IR3UCN-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43070000;43570000;none;none;0;0;IR3UDD-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43070000;43570000;none;none;0;0;IR3UDD-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43070000;43570000;none;none;0;0;IR3UDD-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43070000;43570000;none;none;0;0;IR3UDD-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43093750;43253750;none;none;0;0;IR3UFS-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43093750;43253750;none;none;0;0;IR3UFS-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43093750;43253750;none;none;0;0;IR3UFS-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43093750;43253750;none;none;0;0;IR3UFS-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43085000;43585000;none;none;0;0;IR3UGT-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43085000;43585000;none;none;0;0;IR3UGT-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43085000;43585000;none;none;0;0;IR3UGT-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43085000;43585000;none;none;0;0;IR3UGT-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43087500;43587500;none;none;0;0;IR3UGZ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43087500;43587500;none;none;0;0;IR3UGZ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43087500;43587500;none;none;0;0;IR3UGZ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43087500;43587500;none;none;0;0;IR3UGZ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43060000;43560000;none;none;0;0;IR3UHF-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43060000;43560000;none;none;0;0;IR3UHF-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43060000;43560000;none;none;0;0;IR3UHF-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43060000;43560000;none;none;0;0;IR3UHF-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43072500;43572500;none;none;0;0;IR3UHL-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43072500;43572500;none;none;0;0;IR3UHL-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43072500;43572500;none;none;0;0;IR3UHL-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43072500;43572500;none;none;0;0;IR3UHL-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43142500;43302500;none;none;0;0;IR3UIG-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43142500;43302500;none;none;0;0;IR3UIG-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43142500;43302500;none;none;0;0;IR3UIG-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43142500;43302500;none;none;0;0;IR3UIG-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43112500;43272500;none;none;0;0;IR3UII-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43112500;43272500;none;none;0;0;IR3UII-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43112500;43272500;none;none;0;0;IR3UII-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43112500;43272500;none;none;0;0;IR3UII-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43093750;43593750;none;none;0;0;IR3UIJ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43093750;43593750;none;none;0;0;IR3UIJ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43093750;43593750;none;none;0;0;IR3UIJ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43093750;43593750;none;none;0;0;IR3UIJ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43518750;43018750;none;none;0;0;IR3UIM-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43518750;43018750;none;none;0;0;IR3UIM-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43518750;43018750;none;none;0;0;IR3UIM-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43518750;43018750;none;none;0;0;IR3UIM-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43098750;43598750;none;none;0;0;IR3UIZ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43098750;43598750;none;none;0;0;IR3UIZ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43098750;43598750;none;none;0;0;IR3UIZ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43098750;43598750;none;none;0;0;IR3UIZ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43096250;43596250;none;none;0;0;IR3UN-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43096250;43596250;none;none;0;0;IR3UN-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43096250;43596250;none;none;0;0;IR3UN-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43096250;43596250;none;none;0;0;IR3UN-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 4;Italia;off;43062500;43503750;none;none;0;0;IR4S-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 4;Local or Reflect;off;43062500;43503750;none;none;0;0;IR4S-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 4;Liguria;off;43062500;43503750;none;none;0;0;IR4S-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 4;TAC2-ITA;off;43062500;43503750;none;none;0;0;IR4S-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 4;Italia;off;43023750;43523750;none;none;0;0;IR4UBO-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 4;Local or Reflect;off;43023750;43523750;none;none;0;0;IR4UBO-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 4;Liguria;off;43023750;43523750;none;none;0;0;IR4UBO-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 4;TAC2-ITA;off;43023750;43523750;none;none;0;0;IR4UBO-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 4;Italia;off;43141250;43301250;none;none;0;0;IR4UCJ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 4;Local or Reflect;off;43141250;43301250;none;none;0;0;IR4UCJ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 4;Liguria;off;43141250;43301250;none;none;0;0;IR4UCJ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 4;TAC2-ITA;off;43141250;43301250;none;none;0;0;IR4UCJ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 4;Italia;off;43053750;43553750;none;none;0;0;IR4UCK-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 4;Local or Reflect;off;43053750;43553750;none;none;0;0;IR4UCK-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 4;Liguria;off;43053750;43553750;none;none;0;0;IR4UCK-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 4;TAC2-ITA;off;43053750;43553750;none;none;0;0;IR4UCK-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 4;Italia;off;43013750;43513750;none;none;0;0;IR4UX-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 4;Local or Reflect;off;43013750;43513750;none;none;0;0;IR4UX-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 4;Liguria;off;43013750;43513750;none;none;0;0;IR4UX-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 4;TAC2-ITA;off;43013750;43513750;none;none;0;0;IR4UX-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43008750;43508750;none;none;0;0;IR5AAG-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43008750;43508750;none;none;0;0;IR5AAG-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43008750;43508750;none;none;0;0;IR5AAG-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43008750;43508750;none;none;0;0;IR5AAG-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43095000;43595000;none;none;0;0;IR5AR-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43095000;43595000;none;none;0;0;IR5AR-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43095000;43595000;none;none;0;0;IR5AR-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43095000;43595000;none;none;0;0;IR5AR-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43156250;43316250;none;none;0;0;IR5UCL-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43156250;43316250;none;none;0;0;IR5UCL-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43156250;43316250;none;none;0;0;IR5UCL-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43156250;43316250;none;none;0;0;IR5UCL-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43042500;43542500;none;none;0;0;IR5UCT-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43042500;43542500;none;none;0;0;IR5UCT-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43042500;43542500;none;none;0;0;IR5UCT-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43042500;43542500;none;none;0;0;IR5UCT-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43062500;43562500;none;none;0;0;IR5UDK-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43062500;43562500;none;none;0;0;IR5UDK-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43062500;43562500;none;none;0;0;IR5UDK-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43062500;43562500;none;none;0;0;IR5UDK-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43018750;43178750;none;none;0;0;IR5UDN-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43018750;43178750;none;none;0;0;IR5UDN-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43018750;43178750;none;none;0;0;IR5UDN-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43018750;43178750;none;none;0;0;IR5UDN-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43140000;43300000;none;none;0;0;IR5YZV-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43140000;43300000;none;none;0;0;IR5YZV-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43140000;43300000;none;none;0;0;IR5YZV-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43140000;43300000;none;none;0;0;IR5YZV-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43006250;43506250;none;none;0;0;IR6UBA-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43006250;43506250;none;none;0;0;IR6UBA-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43006250;43506250;none;none;0;0;IR6UBA-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43006250;43506250;none;none;0;0;IR6UBA-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43031250;43531250;none;none;0;0;IR6UBJ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43031250;43531250;none;none;0;0;IR6UBJ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43031250;43531250;none;none;0;0;IR6UBJ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43031250;43531250;none;none;0;0;IR6UBJ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43013750;43513750;none;none;0;0;IR6UCD-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43013750;43513750;none;none;0;0;IR6UCD-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43013750;43513750;none;none;0;0;IR6UCD-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43013750;43513750;none;none;0;0;IR6UCD-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43022500;43522500;none;none;0;0;IR6UCG-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43022500;43522500;none;none;0;0;IR6UCG-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43022500;43522500;none;none;0;0;IR6UCG-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43022500;43522500;none;none;0;0;IR6UCG-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43071250;43571250;none;none;0;0;IR6UCI-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43071250;43571250;none;none;0;0;IR6UCI-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43071250;43571250;none;none;0;0;IR6UCI-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43071250;43571250;none;none;0;0;IR6UCI-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43033750;43533750;none;none;0;0;IR6UCU-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43033750;43533750;none;none;0;0;IR6UCU-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43033750;43533750;none;none;0;0;IR6UCU-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43033750;43533750;none;none;0;0;IR6UCU-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43038750;43538750;none;none;0;0;IR6UCW-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43038750;43538750;none;none;0;0;IR6UCW-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43038750;43538750;none;none;0;0;IR6UCW-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43038750;43538750;none;none;0;0;IR6UCW-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43023750;43523750;none;none;0;0;IR6UCX-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43023750;43523750;none;none;0;0;IR6UCX-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43023750;43523750;none;none;0;0;IR6UCX-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43023750;43523750;none;none;0;0;IR6UCX-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43036250;43536250;none;none;0;0;IR6UDB-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43036250;43536250;none;none;0;0;IR6UDB-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43036250;43536250;none;none;0;0;IR6UDB-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43036250;43536250;none;none;0;0;IR6UDB-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43022500;43522500;none;none;0;0;IR6UDD-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43022500;43522500;none;none;0;0;IR6UDD-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43022500;43522500;none;none;0;0;IR6UDD-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43022500;43522500;none;none;0;0;IR6UDD-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43035000;43535000;none;none;0;0;IR6UDE-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43035000;43535000;none;none;0;0;IR6UDE-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43035000;43535000;none;none;0;0;IR6UDE-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43035000;43535000;none;none;0;0;IR6UDE-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43027500;43187500;none;none;0;0;IR6UDF-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43027500;43187500;none;none;0;0;IR6UDF-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43027500;43187500;none;none;0;0;IR6UDF-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43027500;43187500;none;none;0;0;IR6UDF-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43003750;43503750;none;none;0;0;IR6UDH-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43003750;43503750;none;none;0;0;IR6UDH-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43003750;43503750;none;none;0;0;IR6UDH-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43003750;43503750;none;none;0;0;IR6UDH-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43006250;43506250;none;none;0;0;IR6UDL-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43006250;43506250;none;none;0;0;IR6UDL-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43006250;43506250;none;none;0;0;IR6UDL-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43006250;43506250;none;none;0;0;IR6UDL-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43038750;43538750;none;none;0;0;IR6UDM-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43038750;43538750;none;none;0;0;IR6UDM-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43038750;43538750;none;none;0;0;IR6UDM-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43038750;43538750;none;none;0;0;IR6UDM-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43046250;43546250;none;none;0;0;IR6UDV-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43046250;43546250;none;none;0;0;IR6UDV-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43046250;43546250;none;none;0;0;IR6UDV-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43046250;43546250;none;none;0;0;IR6UDV-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43015000;43175000;none;none;0;0;IR6UF-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43015000;43175000;none;none;0;0;IR6UF-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43015000;43175000;none;none;0;0;IR6UF-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43015000;43175000;none;none;0;0;IR6UF-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43095000;43595000;none;none;0;0;IR6UI-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43095000;43595000;none;none;0;0;IR6UI-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43095000;43595000;none;none;0;0;IR6UI-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43095000;43595000;none;none;0;0;IR6UI-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43037500;43537500;none;none;0;0;IR6UK-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43037500;43537500;none;none;0;0;IR6UK-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43037500;43537500;none;none;0;0;IR6UK-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43037500;43537500;none;none;0;0;IR6UK-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43071250;43571250;none;none;0;0;IR7AZ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43071250;43571250;none;none;0;0;IR7AZ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43071250;43571250;none;none;0;0;IR7AZ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43071250;43571250;none;none;0;0;IR7AZ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43140000;43300000;none;none;0;0;IR7BH-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43140000;43300000;none;none;0;0;IR7BH-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43140000;43300000;none;none;0;0;IR7BH-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43140000;43300000;none;none;0;0;IR7BH-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43020000;43520000;none;none;0;0;IR7BL-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43020000;43520000;none;none;0;0;IR7BL-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43020000;43520000;none;none;0;0;IR7BL-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43020000;43520000;none;none;0;0;IR7BL-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43025000;43525000;none;none;0;0;IR7UBU-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43025000;43525000;none;none;0;0;IR7UBU-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43025000;43525000;none;none;0;0;IR7UBU-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43025000;43525000;none;none;0;0;IR7UBU-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43010000;43510000;none;none;0;0;IR7UC-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43010000;43510000;none;none;0;0;IR7UC-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43010000;43510000;none;none;0;0;IR7UC-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43010000;43510000;none;none;0;0;IR7UC-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43012500;43172500;none;none;0;0;IR7UCH-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43012500;43172500;none;none;0;0;IR7UCH-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43012500;43172500;none;none;0;0;IR7UCH-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43012500;43172500;none;none;0;0;IR7UCH-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43005000;43165000;none;none;0;0;IR7UE-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43005000;43165000;none;none;0;0;IR7UE-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43005000;43165000;none;none;0;0;IR7UE-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43005000;43165000;none;none;0;0;IR7UE-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43012500;43512500;none;none;0;0;IR7XXX-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43012500;43512500;none;none;0;0;IR7XXX-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43012500;43512500;none;none;0;0;IR7XXX-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43012500;43512500;none;none;0;0;IR7XXX-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 8;Italia;off;43032500;43532500;none;none;0;0;IR8UCN-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 8;Local or Reflect;off;43032500;43532500;none;none;0;0;IR8UCN-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 8;Liguria;off;43032500;43532500;none;none;0;0;IR8UCN-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 8;TAC2-ITA;off;43032500;43532500;none;none;0;0;IR8UCN-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43020000;43520000;none;none;0;0;IR9UBT-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43020000;43520000;none;none;0;0;IR9UBT-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43020000;43520000;none;none;0;0;IR9UBT-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43020000;43520000;none;none;0;0;IR9UBT-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43040000;43540000;none;none;0;0;IR9UBU-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43040000;43540000;none;none;0;0;IR9UBU-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43040000;43540000;none;none;0;0;IR9UBU-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43040000;43540000;none;none;0;0;IR9UBU-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43037500;43537500;none;none;0;0;IR9UNZ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43037500;43537500;none;none;0;0;IR9UNZ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43037500;43537500;none;none;0;0;IR9UNZ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43037500;43537500;none;none;0;0;IR9UNZ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43065000;43565000;none;none;0;0;IT9BFB-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43065000;43565000;none;none;0;0;IT9BFB-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43065000;43565000;none;none;0;0;IT9BFB-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43065000;43565000;none;none;0;0;IT9BFB-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43053750;43553750;none;none;0;0;IT9BWU-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43053750;43553750;none;none;0;0;IT9BWU-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43053750;43553750;none;none;0;0;IT9BWU-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43053750;43553750;none;none;0;0;IT9BWU-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43060000;43560000;none;none;0;0;IT9CNT-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43060000;43560000;none;none;0;0;IT9CNT-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43060000;43560000;none;none;0;0;IT9CNT-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43060000;43560000;none;none;0;0;IT9CNT-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43087500;43587500;none;none;0;0;IT9GNC-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43087500;43587500;none;none;0;0;IT9GNC-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43087500;43587500;none;none;0;0;IT9GNC-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43087500;43587500;none;none;0;0;IT9GNC-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43090000;43590000;none;none;0;0;IT9UUT-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43090000;43590000;none;none;0;0;IT9UUT-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43090000;43590000;none;none;0;0;IT9UUT-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43090000;43590000;none;none;0;0;IT9UUT-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43055000;43555000;none;none;0;0;IT9ZQL-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43055000;43555000;none;none;0;0;IT9ZQL-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43055000;43555000;none;none;0;0;IT9ZQL-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43055000;43555000;none;none;0;0;IT9ZQL-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43075000;43575000;none;none;0;0;IU0DLI-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43075000;43575000;none;none;0;0;IU0DLI-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43075000;43575000;none;none;0;0;IU0DLI-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43075000;43575000;none;none;0;0;IU0DLI-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43050000;43550000;none;none;0;0;IU0DZJ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43050000;43550000;none;none;0;0;IU0DZJ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43050000;43550000;none;none;0;0;IU0DZJ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43050000;43550000;none;none;0;0;IU0DZJ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43087500;43587500;none;none;0;0;IU2BEE-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43087500;43587500;none;none;0;0;IU2BEE-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43087500;43587500;none;none;0;0;IU2BEE-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43087500;43587500;none;none;0;0;IU2BEE-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43123750;43283750;none;none;0;0;IU2CIQ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43123750;43283750;none;none;0;0;IU2CIQ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43123750;43283750;none;none;0;0;IU2CIQ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43123750;43283750;none;none;0;0;IU2CIQ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43098750;43598750;none;none;0;0;IU2HAW-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43098750;43598750;none;none;0;0;IU2HAW-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43098750;43598750;none;none;0;0;IU2HAW-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43098750;43598750;none;none;0;0;IU2HAW-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43053750;43553750;none;none;0;0;IU5AVW-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43053750;43553750;none;none;0;0;IU5AVW-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43053750;43553750;none;none;0;0;IU5AVW-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43053750;43553750;none;none;0;0;IU5AVW-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 8;Italia;off;43020000;43180000;none;none;0;0;IU8BPS-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 8;Local or Reflect;off;43020000;43180000;none;none;0;0;IU8BPS-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 8;Liguria;off;43020000;43180000;none;none;0;0;IU8BPS-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 8;TAC2-ITA;off;43020000;43180000;none;none;0;0;IU8BPS-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 8;Italia;off;43052500;43552500;none;none;0;0;IU8FCQ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 8;Local or Reflect;off;43052500;43552500;none;none;0;0;IU8FCQ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 8;Liguria;off;43052500;43552500;none;none;0;0;IU8FCQ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 8;TAC2-ITA;off;43052500;43552500;none;none;0;0;IU8FCQ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43060000;43560000;none;none;0;0;IW0DSR-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43060000;43560000;none;none;0;0;IW0DSR-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43060000;43560000;none;none;0;0;IW0DSR-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43060000;43560000;none;none;0;0;IW0DSR-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43093750;43593750;none;none;0;0;IW0RQJ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43093750;43593750;none;none;0;0;IW0RQJ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43093750;43593750;none;none;0;0;IW0RQJ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43093750;43593750;none;none;0;0;IW0RQJ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43055000;43555000;none;none;0;0;IW1BZH-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43055000;43555000;none;none;0;0;IW1BZH-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43055000;43555000;none;none;0;0;IW1BZH-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43055000;43555000;none;none;0;0;IW1BZH-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43041250;43541250;none;none;0;0;IW1GBM-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43041250;43541250;none;none;0;0;IW1GBM-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43041250;43541250;none;none;0;0;IW1GBM-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43041250;43541250;none;none;0;0;IW1GBM-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43543750;43043750;none;none;0;0;IW1PSC-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43543750;43043750;none;none;0;0;IW1PSC-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43543750;43043750;none;none;0;0;IW1PSC-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43543750;43043750;none;none;0;0;IW1PSC-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43586250;43086250;none;none;0;0;IW1PUR-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43586250;43086250;none;none;0;0;IW1PUR-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43586250;43086250;none;none;0;0;IW1PUR-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43586250;43086250;none;none;0;0;IW1PUR-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43097500;43597500;none;none;0;0;IW2KYI-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43097500;43597500;none;none;0;0;IW2KYI-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43097500;43597500;none;none;0;0;IW2KYI-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43097500;43597500;none;none;0;0;IW2KYI-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43050000;43550000;none;none;0;0;IW3GPO-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43050000;43550000;none;none;0;0;IW3GPO-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43050000;43550000;none;none;0;0;IW3GPO-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43050000;43550000;none;none;0;0;IW3GPO-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43093750;43593750;none;none;0;0;IW3IHV-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43093750;43593750;none;none;0;0;IW3IHV-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43093750;43593750;none;none;0;0;IW3IHV-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43093750;43593750;none;none;0;0;IW3IHV-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43090000;43590000;none;none;0;0;IW6DRY-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43090000;43590000;none;none;0;0;IW6DRY-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43090000;43590000;none;none;0;0;IW6DRY-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43090000;43590000;none;none;0;0;IW6DRY-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43057500;43797500;none;none;0;0;IW7DBM-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43057500;43797500;none;none;0;0;IW7DBM-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43057500;43797500;none;none;0;0;IW7DBM-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43057500;43797500;none;none;0;0;IW7DBM-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43075000;43575000;none;none;0;0;IW7DIG-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43075000;43575000;none;none;0;0;IW7DIG-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43075000;43575000;none;none;0;0;IW7DIG-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43075000;43575000;none;none;0;0;IW7DIG-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43706870;43006870;none;none;0;0;IW7DZR-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43706870;43006870;none;none;0;0;IW7DZR-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43706870;43006870;none;none;0;0;IW7DZR-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43706870;43006870;none;none;0;0;IW7DZR-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 8;Italia;off;43045000;43545000;none;none;0;0;IW8RMN-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 8;Local or Reflect;off;43045000;43545000;none;none;0;0;IW8RMN-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 8;Liguria;off;43045000;43545000;none;none;0;0;IW8RMN-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 8;TAC2-ITA;off;43045000;43545000;none;none;0;0;IW8RMN-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43027500;43527500;none;none;0;0;IW9CRG-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43027500;43527500;none;none;0;0;IW9CRG-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43027500;43527500;none;none;0;0;IW9CRG-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43027500;43527500;none;none;0;0;IW9CRG-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43012500;43172500;none;none;0;0;IW9GDC-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43012500;43172500;none;none;0;0;IW9GDC-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43012500;43172500;none;none;0;0;IW9GDC-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43012500;43172500;none;none;0;0;IW9GDC-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43072500;43572500;none;none;0;0;IW9GRL-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43072500;43572500;none;none;0;0;IW9GRL-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43072500;43572500;none;none;0;0;IW9GRL-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43072500;43572500;none;none;0;0;IW9GRL-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43030000;43530000;none;none;0;0;IX1VKK-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43030000;43530000;none;none;0;0;IX1VKK-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43030000;43530000;none;none;0;0;IX1VKK-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43030000;43530000;none;none;0;0;IX1VKK-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43021250;43521250;none;none;0;0;IZ0PAP-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43021250;43521250;none;none;0;0;IZ0PAP-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43021250;43521250;none;none;0;0;IZ0PAP-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43021250;43521250;none;none;0;0;IZ0PAP-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43052500;43552500;none;none;0;0;IZ0RIM-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43052500;43552500;none;none;0;0;IZ0RIM-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43052500;43552500;none;none;0;0;IZ0RIM-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43052500;43552500;none;none;0;0;IZ0RIM-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 0;Italia;off;43053750;43553750;none;none;0;0;IZ0RIN-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 0;Local or Reflect;off;43053750;43553750;none;none;0;0;IZ0RIN-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 0;Liguria;off;43053750;43553750;none;none;0;0;IZ0RIN-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 0;TAC2-ITA;off;43053750;43553750;none;none;0;0;IZ0RIN-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43080000;43580000;none;none;0;0;IZ1FHG-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43080000;43580000;none;none;0;0;IZ1FHG-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43080000;43580000;none;none;0;0;IZ1FHG-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43080000;43580000;none;none;0;0;IZ1FHG-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43023750;43723750;none;none;0;0;IZ1HIQ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43023750;43723750;none;none;0;0;IZ1HIQ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43023750;43723750;none;none;0;0;IZ1HIQ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43023750;43723750;none;none;0;0;IZ1HIQ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43056250;43556250;none;none;0;0;IZ1MAU-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43056250;43556250;none;none;0;0;IZ1MAU-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43056250;43556250;none;none;0;0;IZ1MAU-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43056250;43556250;none;none;0;0;IZ1MAU-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43041250;43541250;none;none;0;0;IZ1MLT-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43041250;43541250;none;none;0;0;IZ1MLT-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43041250;43541250;none;none;0;0;IZ1MLT-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43041250;43541250;none;none;0;0;IZ1MLT-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43080000;43580000;none;none;0;0;IZ1NHA-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43080000;43580000;none;none;0;0;IZ1NHA-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43080000;43580000;none;none;0;0;IZ1NHA-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43080000;43580000;none;none;0;0;IZ1NHA-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 1;Italia;off;43045000;43545000;none;none;0;0;IZ1ZPJ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 1;Local or Reflect;off;43045000;43545000;none;none;0;0;IZ1ZPJ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 1;Liguria;off;43045000;43545000;none;none;0;0;IZ1ZPJ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 1;TAC2-ITA;off;43045000;43545000;none;none;0;0;IZ1ZPJ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 2;Italia;off;43085000;43585000;none;none;0;0;IZ2QCP-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 2;Local or Reflect;off;43085000;43585000;none;none;0;0;IZ2QCP-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 2;Liguria;off;43085000;43585000;none;none;0;0;IZ2QCP-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 2;TAC2-ITA;off;43085000;43585000;none;none;0;0;IZ2QCP-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 3;Italia;off;43122500;43282500;none;none;0;0;IZ3ALE-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 3;Local or Reflect;off;43122500;43282500;none;none;0;0;IZ3ALE-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 3;Liguria;off;43122500;43282500;none;none;0;0;IZ3ALE-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 3;TAC2-ITA;off;43122500;43282500;none;none;0;0;IZ3ALE-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43010000;43510000;none;none;0;0;IZ5CMC-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43010000;43510000;none;none;0;0;IZ5CMC-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43010000;43510000;none;none;0;0;IZ5CMC-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43010000;43510000;none;none;0;0;IZ5CMC-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43067500;43567500;none;none;0;0;IZ5IGB-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43067500;43567500;none;none;0;0;IZ5IGB-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43067500;43567500;none;none;0;0;IZ5IGB-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43067500;43567500;none;none;0;0;IZ5IGB-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 5;Italia;off;43077500;43577500;none;none;0;0;IZ5TIY-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 5;Local or Reflect;off;43077500;43577500;none;none;0;0;IZ5TIY-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 5;Liguria;off;43077500;43577500;none;none;0;0;IZ5TIY-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 5;TAC2-ITA;off;43077500;43577500;none;none;0;0;IZ5TIY-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43571250;43071250;none;none;0;0;IZ6BGQ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43571250;43071250;none;none;0;0;IZ6BGQ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43571250;43071250;none;none;0;0;IZ6BGQ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43571250;43071250;none;none;0;0;IZ6BGQ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43030000;43530000;none;none;0;0;IZ6MAF-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43030000;43530000;none;none;0;0;IZ6MAF-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43030000;43530000;none;none;0;0;IZ6MAF-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43030000;43530000;none;none;0;0;IZ6MAF-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 6;Italia;off;43096250;43596250;none;none;0;0;IZ6YLJ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 6;Local or Reflect;off;43096250;43596250;none;none;0;0;IZ6YLJ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 6;Liguria;off;43096250;43596250;none;none;0;0;IZ6YLJ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 6;TAC2-ITA;off;43096250;43596250;none;none;0;0;IZ6YLJ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43070000;43570000;none;none;0;0;IZ7AUH-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43070000;43570000;none;none;0;0;IZ7AUH-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43070000;43570000;none;none;0;0;IZ7AUH-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43070000;43570000;none;none;0;0;IZ7AUH-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43040000;43540000;none;none;0;0;IZ7DOS-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43040000;43540000;none;none;0;0;IZ7DOS-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43040000;43540000;none;none;0;0;IZ7DOS-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43040000;43540000;none;none;0;0;IZ7DOS-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43008750;43508750;none;none;0;0;IZ7ECT-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43008750;43508750;none;none;0;0;IZ7ECT-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43008750;43508750;none;none;0;0;IZ7ECT-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43008750;43508750;none;none;0;0;IZ7ECT-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43066250;43566250;none;none;0;0;IZ7ELR-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43066250;43566250;none;none;0;0;IZ7ELR-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43066250;43566250;none;none;0;0;IZ7ELR-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43066250;43566250;none;none;0;0;IZ7ELR-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43040000;43540000;none;none;0;0;IZ7JRR-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43040000;43540000;none;none;0;0;IZ7JRR-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43040000;43540000;none;none;0;0;IZ7JRR-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43040000;43540000;none;none;0;0;IZ7JRR-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43057500;43557500;none;none;0;0;IZ7JWR-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43057500;43557500;none;none;0;0;IZ7JWR-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43057500;43557500;none;none;0;0;IZ7JWR-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43057500;43557500;none;none;0;0;IZ7JWR-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43027500;43527500;none;none;0;0;IZ7SKY-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43027500;43527500;none;none;0;0;IZ7SKY-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43027500;43527500;none;none;0;0;IZ7SKY-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43027500;43527500;none;none;0;0;IZ7SKY-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43052500;43552500;none;none;0;0;IZ7UJZ-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43052500;43552500;none;none;0;0;IZ7UJZ-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43052500;43552500;none;none;0;0;IZ7UJZ-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43052500;43552500;none;none;0;0;IZ7UJZ-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 7;Italia;off;43068750;43568750;none;none;0;0;IZ7ZHD-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 7;Local or Reflect;off;43068750;43568750;none;none;0;0;IZ7ZHD-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 7;Liguria;off;43068750;43568750;none;none;0;0;IZ7ZHD-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 7;TAC2-ITA;off;43068750;43568750;none;none;0;0;IZ7ZHD-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 8;Italia;off;43040000;43540000;none;none;0;0;IZ8CSD-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 8;Local or Reflect;off;43040000;43540000;none;none;0;0;IZ8CSD-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 8;Liguria;off;43040000;43540000;none;none;0;0;IZ8CSD-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 8;TAC2-ITA;off;43040000;43540000;none;none;0;0;IZ8CSD-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 8;Italia;off;43001250;43501250;none;none;0;0;IZ8QIG-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 8;Local or Reflect;off;43001250;43501250;none;none;0;0;IZ8QIG-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 8;Liguria;off;43001250;43501250;none;none;0;0;IZ8QIG-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 8;TAC2-ITA;off;43001250;43501250;none;none;0;0;IZ8QIG-TAC2-I
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222;12;0;0;Zona 9;Italia;off;43061250;43561250;none;none;0;0;I_IR7-Italia
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;9;12;0;0;Zona 9;Local or Reflect;off;43061250;43561250;none;none;0;0;I_IR7-Local 
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;22211;12;0;0;Zona 9;Liguria;off;43061250;43561250;none;none;0;0;I_IR7-Liguri
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;medium;colorCode;low;off;180;on;medium;222002;12;0;0;Zona 9;TAC2-ITA;off;43061250;43561250;none;none;0;0;I_IR7-TAC2-I

@@ -1,0 +1,2 @@
+InfoScreenLine1;InfoScreenLine2;MonitorType;DisableAllLeds;TalkPermitTone;PasswordAndLockEnable;CHFreeIndicationTone;DisableAllTone;SaveModeReceive;SavePreamble;IntroScreen;RadioId;TxPreamble;GroupCallHangTime;PrivateCallHangTime;VoxSensitivity;RxLowBatteryInterval;CallAlertTone;LoneWorkerRespTime;LoneWorkerReminderTime;ScanDigitalHangTime;ScanAnalogHangTime;Unknown1;KeypadLockTime;Mode;PowerOnPassword;RadioProgPassowrd;PcProgPassword;RadioName
+"   UHF";IE2XXX;open;on;both;off;on;off;off;off;charstring;123456;16;30;40;3;24;1;1;10;30;30;3;manual;ch;0;0;;IE2XXX
