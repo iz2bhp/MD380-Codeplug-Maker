@@ -37,7 +37,6 @@ RxGroup_header = [u'Name',u'ContactMember01',u'ContactMember02',u'ContactMember0
 		  u'ContactMember25',u'ContactMember26',u'ContactMember27',u'ContactMember28',u'ContactMember29',u'ContactMember30',
                   u'ContactMember31',u'ContactMember32']
 
-
 def chars(*args):
      return [unicode(chr(i)) for a in args for i in range(ord(a[0]), ord(a[1])+1)]
 
@@ -471,9 +470,9 @@ num_parameters = len(parameters)
 alfabeto = list(chars('AZ','09'))
 
 if parameters[1] == '-h':
-     print ('\nUse json2csv <codeplug_filename> <file parameters> <option parameters> <talkgroups>\n'+
+     print ('\nUse json2rdt <codeplug_filename> <file parameters> <option parameters> <talkgroups>\n'+
           '<file parameters>:'+
-          '\n\t-w write a new codeplug and erasing the exist'+
+          '\n\t-w overwrite the existing codeplug'+
           '\n\t-a append to exist codeplug\n'+
 	  '<option parameters>:'+
 	  '\n\t-it Italian repeaters'+
@@ -485,7 +484,7 @@ if parameters[1] == '-h':
 	  '\n\tEvery talkgroup on Brand Meister policy\n'+
   	  '\n(Example: ./json2csv.py mycodeplug.rdt -w -it 222 22221 222001 222002 222003 222004)'+
           '\nFirst talkgroup will be insert on slot 1, others will be insert to slot 2\n'+
-          '\njson2csv r.01 - (c)2017 - by Fabrizio Blumetti - IZ2BHP\n')
+          '\njson2rdt r.01 - (c)2017 - by Fabrizio Blumetti - IZ2BHP\n')
      quit()
 
 if (num_parameters > 20) or (num_parameters <= 4):
@@ -515,9 +514,23 @@ else:
 
 talkpar = parameters[4:]
 
-
-
 path = list(sys.path)
+
+DB_updates = raw_input ('Do you want update database ?  (Y/N)') 
+
+if DB_updates.upper() == 'Y':
+     try:
+          print ('Download Brand Meister repeaters database...')
+     	  list = commands.getoutput("curl https://api.brandmeister.network/v1.0/repeater/?action=list | jq '.' > repeaters.json")
+          print list
+          print ('Download Brand Meister talkgroups database...')
+          list = commands.getoutput("curl https://api.brandmeister.network/v1.0/groups/?action=list | jq '.' > talkgroups.json")
+          print list
+
+     except:
+	  print ('Fail to download Brand Meister database!')
+	  quit()
+
 try:
      repjson = open(path[0]+'/repeaters.json').read()
 except:
@@ -561,6 +574,6 @@ list = commands.getoutput("rm " + path[0] + "/*.csv")
 print list
 
 print '\nInstalled talkgroups: ',talkpar
-print 'json2csv r.01 - (c)2017 - by Fabrizio Blumetti - IZ2BHP (fabriblu@gmail.com)\n'
+print 'json2rdt r.01 - (c)2017 - by Fabrizio Blumetti - IZ2BHP (fabriblu@gmail.com)\n'
 
 
