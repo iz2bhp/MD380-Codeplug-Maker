@@ -9,7 +9,7 @@ To install and run the software:
 3) Go to installation directory and type "sudo chmod +x json2rdt"
 4) Run "sudo pip install unicodecsv"
 5) Put your own codeplug file .rdt into the installation directory and type: "./json2rdt -h" 
-6) Follow the instructions in help mesage.  
+6) Follow the instructions in help message.  
 
 Your codeplug file will be saved as .old file but it is strong reccomended to store a copy into a new filename.
 First of all, to avoid error, you have to run json2csv with '-w' parameters to format the new codeplug. 
