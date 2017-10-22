@@ -18,7 +18,7 @@ This operation clear all previous data, so it is hard reccomended to store a bac
 In the command line the first Tg's parameter will be stored into slot1 and the others will be stored on slot2.
 This is true for all channels stored.
 
-Moreover, the total amount of memory of MD380 Radio is limited to 1000 channels, therefore if you intend to store all your national repeaters you have to calculate the product between the number of all repeaters and the number of wanted talkgroups. 
+Moreover, the total amount of memory of MD380 Radio is limited to 1000 channels, therefore if you intend to store all your national repeaters you have to calculate the product between the number of all national repeaters and the number of wanted talkgroups. 
 
 This product shoud be lower than 1000. 
 For example if there are about 200 repeaters,the maximum number of talkgroups will be 5 for each repeaters.
