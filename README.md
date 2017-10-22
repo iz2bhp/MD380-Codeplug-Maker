@@ -45,7 +45,7 @@ For doing that you have to type the commands as the follow:
 
 Suppose your closest home repeater name is "IR2UBG" and we whish to have all 16 talkgroups stored into the radio channels deal.
 
-The first command should be: 
+The first command will be: 
 
 "./json2rdt <name_of_your_codeplug.rdt> -w -ir2ubg 222 9 222001 222002 222003 222004 222005 222006 222007 222008 222009 222010 22210 22221 22231 22232"
 
@@ -55,6 +55,6 @@ The second command will be:
 
 "./json2rdt <name_of_your_codeplug.rdt> -a -i 222 9 222001 222002 22221"
 
-this command will append ('-a' option) in our codeplug the rest of repeaters whith limited 5 talkgroups.
+this command will append ('-a' option) in your codeplug the rest of repeaters whith limited 5 talkgroups.
 
 If an overflow error occur it sould be neccessary reduce the number of talkgroups.  
