@@ -5,7 +5,7 @@ This software works under Linux OS and Python 2.7 interpreter.
 
 To install and run the software:
 1) Open your terminal and type "git clone http://github.com/iz2bhp/MD380-Codeplug-Maker" into your /home directory
-2) Type "sudo apt-get install pip curl jq"
+2) Type "sudo apt-get install python-pip curl jq"
 3) Go to installation directory and type "sudo chmod +x json2rdt"
 4) Run "sudo pip install unicodecsv"
 5) Put your own codeplug file .rdt into the installation directory and type: "./json2rdt -h" 
