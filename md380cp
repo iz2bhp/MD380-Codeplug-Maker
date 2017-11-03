@@ -470,7 +470,7 @@ num_parameters = len(parameters)
 alfabeto = list(chars('AZ','09'))
 
 if parameters[1] == '-h':
-     print ('\nUse json2rdt <codeplug_filename> <file parameters> <option parameters> <talkgroups>\n'+
+     print ('\nUse md380cp <codeplug_filename> <file parameters> <option parameters> <talkgroups>\n'+
           '<file parameters>:'+
           '\n\t-w overwrite the existing codeplug'+
           '\n\t-a append to exist codeplug\n'+
@@ -482,7 +482,7 @@ if parameters[1] == '-h':
           '\n\t-ir2 all italian repeaters become with IR2\n'+
 	  '<Talkgroup>:'+
 	  '\n\tEvery talkgroup on Brand Meister policy\n'+
-  	  '\n(Example: ./json2csv.py mycodeplug.rdt -w -it 222 22221 222001 222002 222003 222004)'+
+  	  '\n(Example: ./md380cp mycodeplug.rdt -w -it 222 22221 222001 222002 222003 222004)'+
           '\nFirst talkgroup will be insert on slot 1, others will be insert to slot 2\n'+
           '\njson2rdt r.01 - (c)2017 - by Fabrizio Blumetti - IZ2BHP\n')
      quit()
@@ -574,6 +574,6 @@ list = commands.getoutput("rm " + path[0] + "/*.csv")
 print list
 
 print '\nInstalled talkgroups: ',talkpar
-print 'json2rdt r.01 - (c)2017 - by Fabrizio Blumetti - IZ2BHP (fabriblu@gmail.com)\n'
+print 'md380cp r.01 - (c)2017 - by Fabrizio Blumetti - IZ2BHP (fabriblu@gmail.com)\n'
 
 
