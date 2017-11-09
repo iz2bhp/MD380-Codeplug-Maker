@@ -5,8 +5,8 @@ This software works under Linux OS and Python 2.7 interpreter.
 
 To install and run the software:
 1) Open your terminal and type "git clone https://github.com/iz2bhp/MD380-Codeplug-Maker" into your /home directory
-2) Type "sudo chmod +x install.sh"
-3) Type ./install.sh
+2) Type "sudo chmod +x install"
+3) Type ./install
 3) Put your own codeplug file .rdt into the installation directory and type: "./md380cp -h" 
 6) Follow the instructions in help message.  
 
