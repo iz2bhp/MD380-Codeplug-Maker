@@ -484,7 +484,7 @@ if parameters[1] == '-h':
 	  '\n\tEvery talkgroup on Brand Meister policy\n'+
   	  '\n(Example: ./md380cp mycodeplug.rdt -w -it 222 22221 222001 222002 222003 222004)'+
           '\nFirst talkgroup will be insert on slot 1, others will be insert to slot 2\n'+
-          '\njson2rdt r.01 - (c)2017 - by Fabrizio Blumetti - IZ2BHP\n')
+          '\nmd380cp r.01 - (c)2017 - by Fabrizio Blumetti - IZ2BHP\n')
      quit()
 
 if (num_parameters > 20) or (num_parameters <= 4):
