@@ -6,6 +6,12 @@ import commands
 import sys
 import time
 
+
+General_header = [u'InfoScreenLine1',u'InfoScreenLine2',u'MonitorType',u'DisableAllLeds',u'TalkPermitTone',u'PasswordAndLockEnable',u'CHFreeIndicationTone',
+                  u'DisableAllTone',u'SaveModeReceive',u'SavePreamble',u'IntroScreen',u'RadioId',u'TxPreamble',u'GroupCallHangTime',u'PrivateCallHangTime',
+                  u'VoxSensitivity',u'RxLowBatteryInterval',u'CallAlertTone',u'LoneWorkerRespTime',u'LoneWorkerReminderTime',u'ScanDigitalHangTime',
+                  u'ScanAnalogHangTime',u'Unknown1',u'KeypadLockTime',u'Mode',u'PowerOnPassword',u'RadioProgPassowrd',u'PcProgPassword',u'RadioName']
+
 Channel_header = [u'LoneWorker',u'Squelch',u'Autoscan',u'Bandwidth',u'ChannelMode',
 		  u'Colorcode',u'RepeaterSlot',u'RxOnly',u'AllowTalkaround',u'DataCallConf',
 		  u'PrivateCallConf',u'Privacy',u'PrivacyNo',u'DisplayPttId',u'CompressedUdpHdr',
@@ -51,8 +57,8 @@ def write_channel_csv(rpt_data,tg_data,filename):
                 inf = open(filename,'r')
 	        reader = csv.DictReader(inf, delimiter=';', dialect='excel', encoding='utf-8')
 	  except:
-	        list = commands.getoutput("./rdt2csv -e " + parameters[1] + " -sc -ch Channel.csv -cont Contact.csv -scan Scan.csv"+
-                                          " -zone Zone.csv -gen General.csv -txt Text.csv -rxgrp Rxgroup.csv")
+	        list = commands.getoutput("./rdt2csv -e " + parameters[1] + " -sc -gen General.csv -ch Channel.csv -cont Contact.csv -scan Scan.csv"+
+                                          " -zone Zone.csv  -txt Text.csv -rxgrp Rxgroup.csv")
                 print list
                 inf = open(filename,'r')
                 reader = csv.DictReader(inf, delimiter=';', dialect='excel', encoding='utf-8')
@@ -179,8 +185,8 @@ def write_scan_csv(rpt_data,tg_data,filename):
                 inf = open(filename,'r')
                 reader = csv.DictReader(inf, delimiter=';', dialect='excel', encoding='utf-8')
           except:
-                list = commands.getoutput("./rdt2csv -e " + parameters[1] + " -sc -ch Channel.csv -cont Contact.csv"+
-                                          " -scan Scan.csv -zone Zone.csv -gen General.csv -txt Text.csv -rxgrp Rxgroup.csv")
+                list = commands.getoutput("./rdt2csv -e " + parameters[1] + " -sc -gen General.csv -ch Channel.csv -cont Contact.csv"+
+                                          " -scan Scan.csv -zone Zone.csv -txt Text.csv -rxgrp Rxgroup.csv")
                 print list
 
                 inf = open(filename,'r')
@@ -283,8 +289,8 @@ def write_zone_csv(rpt_data,tg_data,filename):
                 inf = open(filename,'r')
                 reader = csv.DictReader(inf, delimiter=';', dialect='excel', encoding='utf-8')
           except:
-                list = commands.getoutput("./rdt2csv -e " + parameters[1] + " -sc -ch Channel.csv -cont Contact.csv"+
-                                          " -scan Scan.csv -zone Zone.csv -gen General.csv -txt Text.csv -rxgrp Rxgroup.csv")
+                list = commands.getoutput("./rdt2csv -e " + parameters[1] + " -sc -gen General.csv -ch Channel.csv -cont Contact.csv"+
+                                          " -scan Scan.csv -zone Zone.csv -txt Text.csv -rxgrp Rxgroup.csv")
                 print list
 
                 inf = open(filename,'r')
@@ -305,7 +311,7 @@ def write_zone_csv(rpt_data,tg_data,filename):
           writer = csv.writer(outf, delimiter=';', dialect='excel', encoding='utf-8')
 
      elif '-w' in parameters:
-          print('Creating new file zone....')
+          print('Creating new file Zone....')
           outf = open(filename, 'w')
           writer = csv.writer(outf, delimiter=';', dialect='excel', encoding='utf-8')
           writer.writerow(Zone_header)
@@ -362,8 +368,8 @@ def write_contact_csv(tg_data,filename):
                 inf = open(filename,'r')
                 reader = csv.DictReader(inf, delimiter=';', dialect='excel', encoding='utf-8')
           except:
-                list = commands.getoutput("./rdt2csv -e " + parameters[1] + " -sc -ch Channel.csv -cont Contact.csv"+
-                                          " -scan Scan.csv -zone Zone.csv -gen General.csv -txt Text.csv -rxgrp Rxgroup.csv")
+                list = commands.getoutput("./rdt2csv -e " + parameters[1] + " -sc -gen General.csv -ch Channel.csv -cont Contact.csv"+
+                                          " -scan Scan.csv -zone Zone.csv -txt Text.csv -rxgrp Rxgroup.csv")
                 print list
 
                 inf = open(filename,'r')
@@ -419,8 +425,8 @@ def write_rxgroup_csv(tg_data,filename):
                 inf = open(filename,'r')
                 reader = csv.DictReader(inf, delimiter=';', dialect='excel', encoding='utf-8')
           except:
-                list = commands.getoutput("./rdt2csv -e " + parameters[1] + " -sc -ch Channel.csv -cont Contact.csv"+
-                                          " -scan Scan.csv -zone Zone.csv -gen General.csv -txt Text.csv -rxgrp Rxgroup.csv")
+                list = commands.getoutput("./rdt2csv -e " + parameters[1] + " -sc -gen General.csv -ch Channel.csv -cont Contact.csv"+
+                                          " -scan Scan.csv -zone Zone.csv -txt Text.csv -rxgrp Rxgroup.csv")
                 print list
 
                 inf = open(filename,'r')
@@ -462,6 +468,32 @@ def write_rxgroup_csv(tg_data,filename):
                                                   u'0'])
      outf.close()
 
+
+def write_general_csv(callsign,id,filename):
+     try:
+          inf = open(filename,'r')
+          reader = csv.DictReader(inf, delimiter=';', dialect='excel', encoding='utf-8')
+     except:
+          list = commands.getoutput("./rdt2csv -e " + parameters[1] + " -sc -gen General.csv -ch Channel.csv -cont Contact.csv -scan Scan.csv"+
+                                    " -zone Zone.csv  -txt Text.csv -rxgrp Rxgroup.csv")
+          print list
+          inf = open(filename,'r')
+          reader = csv.DictReader(inf, delimiter=';', dialect='excel', encoding='utf-8')
+
+     for row in reader:
+          row["RadioId"] = unicode(str(id))
+          row["RadioName"] = unicode(callsign)
+          row["InfoScreenLine2"] = unicode(callsign)
+     inf.close()
+
+     inf = open(filename,'w')
+     writer = csv.writer(inf, delimiter=';', dialect='excel', encoding='utf-8')
+     writer.writerow(General_header)
+     linea = []
+     for line in General_header:
+          linea.append(row[line])
+     writer.writerow(linea)
+     inf.close()
 
 # implement
 
@@ -513,10 +545,22 @@ else:
      quit()
 
 talkpar = parameters[4:]
-
 path = list(sys.path)
 
 DB_updates = raw_input ('Do you want update database ?  (Y/N)') 
+User_callsign = raw_input ('Enter your callsign: ')
+User_callsign = User_callsign.upper()
+
+def callsign_id ():
+     ans = raw_input ('Enter your DMR-MARC ID: ')
+     try:
+          return int(ans)
+     except ValueError:
+          print ('ID is not a number')
+          return callsign_id()
+
+User_id = callsign_id()
+
 
 if DB_updates.upper() == 'Y':
      try:
@@ -551,13 +595,14 @@ repeaters_data = json.loads(repjson)
 talkgroups_data = json.loads(groupjson)
 
 try:
-     list = commands.getoutput("./rdt2csv -e " + parameters[1] + " -sc -ch Channel.csv -cont Contact.csv"+ 
-                                                   " -scan Scan.csv -zone Zone.csv -gen General.csv -txt Text.csv -rxgrp Rxgroup.csv")
+     list = commands.getoutput("./rdt2csv -e " + parameters[1] + " -sc -gen General.csv -ch Channel.csv -cont Contact.csv"+ 
+                                                   " -scan Scan.csv -zone Zone.csv -txt Text.csv -rxgrp Rxgroup.csv")
      print list
 except:
      print (Parameter[1], "file not found")
      quit()
 
+write_general_csv(User_callsign,User_id,path[0]+'/General.csv')
 write_channel_csv(repeaters_data, talkgroups_data, path[0]+'/Channel.csv')
 write_scan_csv(repeaters_data,talkgroups_data,path[0]+'/Scan.csv')
 write_zone_csv(repeaters_data,talkgroups_data,path[0]+'/Zone.csv')
@@ -566,8 +611,8 @@ write_rxgroup_csv(talkgroups_data,path[0]+'/Rxgroup.csv')
 
 list= commands.getoutput("cp "+ path[0] + "/" + parameters[1] + " "+path[0] + "/" + parameters[1] + ".old") 
 
-list = commands.getoutput("./rdt2csv -u " + parameters[1] + " -sc -ch Channel.csv -cont Contact.csv"+ 
-                                                    " -scan Scan.csv -zone Zone.csv -gen General.csv -txt Text.csv -rxgrp Rxgroup.csv")
+list = commands.getoutput("./rdt2csv -u " + parameters[1] + " -sc -gen General.csv -ch Channel.csv -cont Contact.csv"+ 
+                                                    " -scan Scan.csv -zone Zone.csv -txt Text.csv -rxgrp Rxgroup.csv")
 print list
 
 list = commands.getoutput("rm " + path[0] + "/*.csv")
