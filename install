@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo apt-get install python-pip curl jq
-sudo pip install unicodecsv
+sudo pip install unicodecsv pyusb
 sudo chmod +x md380cp
 cd $HOME/MD380-Codeplug-Maker/c
 make
