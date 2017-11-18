@@ -20,7 +20,7 @@ This is true for all channels stored.
 Moreover, the total amount of memory of MD380's Radio is limited to 1000 channels, therefore if you intend to store all your national repeaters you have to calculate the product between the number of all national repeaters and the number of wanted talkgroups. 
 
 This product shoud be lower than 1000. 
-For example if there are about 200 repeaters,the maximum number of talkgroups will be 5 for each repeaters.
+For example if there are about 200 repeaters,the maximum number of talkgroups will be 5 for each repeater.
  
 To know the total amount of repeaters try to run the "md380cp" program with only one talkgroup as the following command:
 
