@@ -5,7 +5,7 @@ import unicodecsv as csv
 import commands
 import sys
 import time
-
+import md380_dfu
 
 General_header = [u'InfoScreenLine1',u'InfoScreenLine2',u'MonitorType',u'DisableAllLeds',u'TalkPermitTone',u'PasswordAndLockEnable',u'CHFreeIndicationTone',
                   u'DisableAllTone',u'SaveModeReceive',u'SavePreamble',u'IntroScreen',u'RadioId',u'TxPreamble',u'GroupCallHangTime',u'PrivateCallHangTime',
@@ -617,9 +617,10 @@ list = commands.getoutput("./rdt2csv -u " + parameters[1] + " -sc -gen General.c
 print list
 
 list = commands.getoutput("rm " + path[0] + "/*.csv")
-print list
 
-print '\nInstalled talkgroups: ',talkpar
-print 'md380cp r.01 - (c)2017 - by Fabrizio Blumetti - IZ2BHP (fabriblu@gmail.com)\n'
+print 'Installed talkgroups: ',talkpar
+print ('Your Codeplug ' + parameters[1] + ' has been done! \n' +
+      'To upload on your radio, plugin the usb cable on it and switch on normally then type: <./md380_dfu.py write ' + parameters[1] + '> to upload')
+print ('md380cp r.01 - (c)2017 - by Fabrizio Blumetti - IZ2BHP (fabriblu@gmail.com)\n')
 
 
