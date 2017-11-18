@@ -215,7 +215,7 @@ def write_scan_csv(rpt_data,tg_data,filename):
           inf.close()
 
      elif '-w' in parameters:
-          print 'Creating new file Scan...'
+          print 'Creating new file Scan....'
           line.append([u'Zona 0',u'selected',u'selected',u'none',u'20',u'8'])
 	  line.append([u'Zona 1',u'selected',u'selected',u'none',u'20',u'8'])
 	  line.append([u'Zona 2',u'selected',u'selected',u'none',u'20',u'8'])
@@ -442,7 +442,7 @@ def write_rxgroup_csv(tg_data,filename):
           writer = csv.writer(outf, delimiter=';', dialect='excel', encoding='utf-8')
 
      elif '-w' in parameters:
-          print 'Creating new file RxGroup....\n'
+          print 'Creating new file RxGroup....'
           outf = open(filename, 'w')
           writer = csv.writer(outf, delimiter=';', dialect='excel', encoding='utf-8')
           writer.writerow(RxGroup_header)
@@ -470,6 +470,7 @@ def write_rxgroup_csv(tg_data,filename):
 
 
 def write_general_csv(callsign,id,filename):
+     print ('Creating new file General....\n')
      try:
           inf = open(filename,'r')
           reader = csv.DictReader(inf, delimiter=';', dialect='excel', encoding='utf-8')
@@ -547,34 +548,32 @@ else:
 talkpar = parameters[4:]
 path = list(sys.path)
 
-DB_updates = raw_input ('Do you want update database ?  (Y/N)') 
-User_callsign = raw_input ('Enter your callsign: ')
-User_callsign = User_callsign.upper()
+if '-w' in parameters:
+     DB_updates = raw_input ('Do you want update database ?  (Y/N)') 
+     User_callsign = raw_input ('Enter your callsign: ')
+     User_callsign = User_callsign.upper()
 
-def callsign_id ():
-     ans = raw_input ('Enter your DMR-MARC ID: ')
-     try:
-          return int(ans)
-     except ValueError:
-          print ('ID is not a number')
-          return callsign_id()
+     def callsign_id ():
+          ans = raw_input ('Enter your DMR-MARC ID: ')
+          try:
+               return int(ans)
+          except ValueError:
+               print ('ID is not a number')
+               return callsign_id()
+     User_id = callsign_id()
 
-User_id = callsign_id()
 
-
-if DB_updates.upper() == 'Y':
-     try:
-          print ('Download Brand Meister repeaters database...')
-     	  list = commands.getoutput("curl https://api.brandmeister.network/v1.0/repeater/?action=list | jq '.' > repeaters.json")
-          print list
-          print ('Download Brand Meister talkgroups database...')
-          list = commands.getoutput("curl https://api.brandmeister.network/v1.0/groups/?action=list | jq '.' > talkgroups.json")
-          print list
-
-     except:
-	  print ('Fail to download Brand Meister database!')
-	  quit()
-
+     if DB_updates.upper() == 'Y':
+          try:
+               print ('Download Brand Meister repeaters database...')
+     	       list = commands.getoutput("curl https://api.brandmeister.network/v1.0/repeater/?action=list | jq '.' > repeaters.json")
+               print list
+               print ('Download Brand Meister talkgroups database...')
+               list = commands.getoutput("curl https://api.brandmeister.network/v1.0/groups/?action=list | jq '.' > talkgroups.json")
+               print list
+          except:
+	       print ('Fail to download Brand Meister database!')
+	       quit()
 try:
      repjson = open(path[0]+'/repeaters.json').read()
 except:
@@ -602,12 +601,14 @@ except:
      print (Parameter[1], "file not found")
      quit()
 
-write_general_csv(User_callsign,User_id,path[0]+'/General.csv')
 write_channel_csv(repeaters_data, talkgroups_data, path[0]+'/Channel.csv')
 write_scan_csv(repeaters_data,talkgroups_data,path[0]+'/Scan.csv')
 write_zone_csv(repeaters_data,talkgroups_data,path[0]+'/Zone.csv')
 write_contact_csv(talkgroups_data,path[0]+'/Contact.csv')
 write_rxgroup_csv(talkgroups_data,path[0]+'/Rxgroup.csv')
+if '-w' in parameters:
+     write_general_csv(User_callsign,User_id,path[0]+'/General.csv')
+
 
 list= commands.getoutput("cp "+ path[0] + "/" + parameters[1] + " "+path[0] + "/" + parameters[1] + ".old") 
 
